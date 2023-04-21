@@ -1,0 +1,45 @@
+h1 {
+    color:rgb(71, 199, 165);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:antiquewhite;
+    border:5px solid beige;
+    padding:50px;
+}
+
+h1 {
+    color:cadetblue;
+    background: white;
+    font-family:'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+
+h3 {
+    color:rgb(167, 236, 204);
+    font-family:'Times New Roman', Times, serif;
+}
+p{
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+}
+a {
+    color:rgb(202, 229, 253);
+    font-family:'Times New Roman', Times, serif;
+}
+
+body {
+    background-color:rgb(255, 254, 240);
+}
+img {
+    border:5px solid rgb(202, 229, 253);
+    width:50%;
+    height:50%;
+}
+#highlight {
+    color:cornflowerblue;
+    background-color: aliceblue;
+    border: 2px dotted beige;
+}
+.top {
+    background-color: rgb(255, 244, 228);
+    float: left;
+}
